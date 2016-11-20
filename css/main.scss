@@ -1,0 +1,32 @@
+---
+---
+// External
+@import 'external/reset';
+@import 'external/syntax';
+
+// Base
+@import 'base/variables';
+@import 'base/global';
+@import 'base/utility';
+
+// Posts
+@import 'layouts/posts';
+@import 'layouts/index';
+
+// Partials
+@import 'includes/header';
+@import 'includes/footer';
+
+.col-md-3 {
+    width: 33%;
+    margin: 0 auto;
+    text-align: center;
+    display: table-cell;
+}
+.col-md-3 img {
+  width: 80%;
+}
+
+.spacing {
+  margin: 1em;
+}
