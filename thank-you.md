@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-Thank you for contacting me! Look forward to a response within 72 hours.
+Thank you for contacting me! Please look forward to a response within 72 hours.
