@@ -8,7 +8,7 @@ theme_settings:
   title: Albert So
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Albert So Full Stack Web Developer" # used by search engines
 
   # Header and footer text
   header_text: >
