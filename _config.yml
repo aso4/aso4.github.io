@@ -1,33 +1,32 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "0.0.0.0" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "http://www.your-domain.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
-  avatar: avatar.png
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  title: Tyrion Lannister # Your name will go here
+  description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Witty & Hilarious Rails Developer</h1>
+     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble:
+  facebook:
   flickr:
-  github: "madebymunsters/type-theme"
+  github: # github profile name, e.g. "madebymunsters"
   google_plus:
-  instagram: "joeykirk"
+  instagram:
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -35,7 +34,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter:
   wordpress:
   youtube:
 
@@ -50,23 +49,25 @@ theme_settings:
   str_email: "Email"
   str_next: "Next"
   str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_continue_reading: "Read more &raquo;"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
 
 # PAGINATION
-paginate: 5
+paginate: 100
 paginate_path: "blog/page:num"
 
 # COLLECTIONS
 collections:
   portfolio:
     output: true
+    permalink: /portfolio/:path/
 
 # BUILD SETTINGS
 markdown: kramdown
+
 sass:
   sass_dir: _sass
   style: :compressed
