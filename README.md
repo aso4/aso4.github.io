@@ -1,15 +1,30 @@
-# Portfolio Kami Theme
-## Based on Type Theme
+Agency Jekyll theme
+====================
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+# How to use
 
-## Get Started
+###Portfolio 
 
-[Demo](http://madebymunsters.github.io/Lannister/)
+Portfolio projects are in '/_posts'
 
-[Using Type](https://rohanchandra.github.io/project/type/)
+Images are in '/img/portfolio'
 
-## License
-The MIT License (MIT)
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
