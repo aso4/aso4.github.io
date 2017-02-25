@@ -1,0 +1,15 @@
+---
+title: Alexa Flashcards Ruby
+subtitle: Amazon Alexa API-interfacing Voice Skill
+layout: default
+modal-id: 1
+date: 2017-01-01
+img: dreams.png
+thumbnail: echo_thumb.png
+alt: image-alt
+project-date: January 2017
+git: https://github.com/aso4/alexa-flashcards
+demo:
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

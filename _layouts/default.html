@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html>
+
   {% include head.html %}
-  <body>
+
+
+    <body id="page-top" class="index">
+
     {% include header.html %}
-    <div class="content">
-      {{ content }}
-    </div>
-    {% include footer.html %}
-  </body>
+    {% include about.html %}
+    {% include portfolio_grid.html %}
+    {% include contact.html %}
+    {% include modals.html %}
+    {% include js.html %}
+
+    </body>
 </html>

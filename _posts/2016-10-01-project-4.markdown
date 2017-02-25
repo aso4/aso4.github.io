@@ -1,0 +1,15 @@
+---
+title: Blocipedia
+subtitle: Multifaceted Wikipedia Clone
+layout: default
+modal-id: 4
+date: 2016-10-01
+img: treehouse.png
+thumbnail: wikipedia_blank_thumbnail.png
+alt: image-alt
+project-date: October 2016
+git: https://github.com/aso4/blocipedia
+demo: https://aso4-blocipedia.herokuapp.com/
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

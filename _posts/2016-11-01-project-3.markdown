@@ -1,0 +1,15 @@
+---
+title: API Client
+subtitle: Curl-based Third-Party API Data Access
+layout: default
+modal-id: 3
+date: 2016-11-01
+img: golden.png
+thumbnail: curl_json_thumbnail.png
+alt: image-alt
+project-date: November 2016
+git: https://github.com/aso4/kele-api-client
+demo:
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

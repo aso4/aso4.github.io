@@ -1,0 +1,15 @@
+---
+title: BlocJams
+subtitle: Buzz API-integrated Music Player
+layout: default
+modal-id: 5
+date: 2016-08-01
+img: startup-framework.png
+thumbnail: equalizer_thumbnail.png
+alt: image-alt
+project-date: April 2014
+git: https://github.com/aso4/bloc-jams-angular
+demo: https://aso4-bloc-jams.herokuapp.com/
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

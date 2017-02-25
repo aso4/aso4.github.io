@@ -1,0 +1,15 @@
+---
+title: To-Do List API
+subtitle: Curl-based Data Input, JSON Output
+layout: default
+modal-id: 2
+date: 2016-12-01
+img: escape.png
+thumbnail: microservices_thumbnail.jpg
+alt: image-alt
+project-date: December 2016
+git: https://github.com/aso4/to-do-API
+demo:
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

@@ -1,0 +1,40 @@
+<!-- About Section -->
+<section id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">About</h2>
+                <br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="img/team/headshot.jpg" class="img-responsive img-circle" alt="">
+                    <br />
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <p class="large">
+                  I am a full stack software engineer with a strong background in Ruby, and I have built applications with Rails, ActiveRecord, and Angular. My passion is creating software that brings people and information together in innovative ways. I love working in teams that take software from concept to fully functioning product.
+                </p>
+                <br />
+                <p class="large">
+                  Through my projects, I'm well-acquainted with the MVC framework, test-driven development, functional and integrated testing, responsive user interface design, version control, third-party APIs, and object oriented programming using a number of different tools.
+                </p>
+                <br />
+                <h4>Specialties:</h4>
+                <h3 class="section-subheading text-muted specialties">
+                    Ruby, Rails, JavaScript, AngularJS, jQuery, Python, Bootstrap, AWS
+                </h3>
+            </div>
+        </div>
+    </div>
+</section>
