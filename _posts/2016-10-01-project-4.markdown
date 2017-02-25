@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2016-10-01
 img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+thumbnail: wikipedia_blank_thumbnail.png
 alt: image-alt
 project-date: October 2016
 git: https://github.com/aso4/blocipedia

@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2017-01-01
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: echo_thumb.png
 alt: image-alt
 project-date: January 2017
 git: https://github.com/aso4/alexa-flashcards

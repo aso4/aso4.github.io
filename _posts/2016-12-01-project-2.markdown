@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2016-12-01
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: microservices_thumbnail.jpg
 alt: image-alt
 project-date: December 2016
 git: https://github.com/aso4/to-do-API

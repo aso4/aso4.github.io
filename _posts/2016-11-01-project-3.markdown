@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2016-11-01
 img: golden.png
-thumbnail: golden-thumbnail.png
+thumbnail: curl_json_thumbnail.png
 alt: image-alt
 project-date: November 2016
 git: https://github.com/aso4/kele-api-client

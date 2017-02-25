@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2016-08-01
 img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+thumbnail: equalizer_thumbnail.png
 alt: image-alt
 project-date: April 2014
 git: https://github.com/aso4/bloc-jams-angular

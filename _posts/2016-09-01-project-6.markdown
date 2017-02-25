@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2016-09-01
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: chat_thumbnail.png
 alt: image-alt
 project-date: September 2016
 git: https://github.com/aso4/bloc-chat
