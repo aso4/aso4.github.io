@@ -277,6 +277,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    min-height: 100vh;
 }
 
 header .intro-text {
@@ -310,8 +311,8 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
+        font-size: 30px;
+        font-weight: 700;
         line-height: 40px;
     }
 
@@ -658,7 +659,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #444;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
