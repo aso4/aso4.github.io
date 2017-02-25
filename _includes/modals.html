@@ -16,11 +16,13 @@
                         <hr class="star-primary">
                         <p>{{ post.description }}</p>
                         <ul class="list-inline item-details">
+                            {% if post.demo %}
                             <li>
                                 <a class="btn btn-warning" href="{{ post.demo }}" target="_blank">
                                     <i class="fa fa-eye-slash"></i> Demo
                                 </a>
                             </li>
+                            {% endif %}                            
                             <li>
                                 <a class="btn btn-success" href="{{ post.git }}" target="_blank">
                                     <i class="fa fa-github"></i> View on GitHub
