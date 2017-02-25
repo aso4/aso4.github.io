@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: BlocChat
+subtitle: Angular-based Real-time Chat
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+modal-id: 6
+date: 2016-09-01
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: September 2016
+git: https://github.com/aso4/bloc-chat
+demo:
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
