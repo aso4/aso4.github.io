@@ -15,9 +15,6 @@
                         <h2>{{ post.title }}</h2>
                         <hr class="star-primary">
                         <p>{{ post.description }}</p>
-                        <h4>Languages, Frameworks, and Tools:</h4>
-                        <h5 class="text-muted">{{ post.tools }}</h5>
-                        <br/>
                         <ul class="list-inline item-details">
                             {% if post.demo %}
                             <li>
@@ -40,6 +37,8 @@
                         <a href="{{ post.demo }}" target="_blank">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                         </a>
+                        <h4>Languages, Frameworks, and Tools:</h4>
+                        <h5 class="text-muted">{{ post.tools }}</h5>
                     </div>
                 </div>
             </div>
