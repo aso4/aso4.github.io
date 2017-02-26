@@ -812,6 +812,14 @@ ul.social-buttons li a:active {
     margin-bottom: 30px;
 }
 
+.portfolio-modal .modal-content h5 {
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+    text-transform: none;
+    font-weight: 400;
+}
+
 .portfolio-modal .close-modal {
     position: absolute;
     top: 25px;

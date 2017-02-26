@@ -15,6 +15,9 @@
                         <h2>{{ post.title }}</h2>
                         <hr class="star-primary">
                         <p>{{ post.description }}</p>
+                        <h4>Languages, Frameworks, and Tools:</h4>
+                        <h5 class="text-muted">{{ post.tools }}</h5>
+                        <br/>
                         <ul class="list-inline item-details">
                             {% if post.demo %}
                             <li>
@@ -22,7 +25,7 @@
                                     <i class="fa fa-eye-slash"></i> Demo
                                 </a>
                             </li>
-                            {% endif %}                            
+                            {% endif %}
                             <li>
                                 <a class="btn btn-success" href="{{ post.git }}" target="_blank">
                                     <i class="fa fa-github"></i> View on GitHub
