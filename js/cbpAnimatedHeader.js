@@ -29,11 +29,11 @@ var cbpAnimatedHeader = (function() {
 		if ( sy >= changeHeaderOn ) {
 			classie.add( header, 'navbar-shrink' );
 			$('#logo').removeClass("hidden");
-			$('#logo').fadeIn("slow", "linear");
+			$('#logo').fadeIn('.2s', "linear");
 		}
 		else {
 			classie.remove( header, 'navbar-shrink' );
-			$('#logo').fadeOut(700, "linear");
+			$('#logo').fadeOut('.1s', "linear");
 		}
 		didScroll = false;
 	}
