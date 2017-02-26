@@ -11,5 +11,6 @@ project-date: December 2016
 git: https://github.com/aso4/to-do-API
 demo:
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+tools: Rails, RSpec, Shoulda, Bootstrap, Figaro, Pry, ActiveModel Serializers, Faker, Spring, FactoryGirl
 
 ---

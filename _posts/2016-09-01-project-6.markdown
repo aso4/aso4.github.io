@@ -10,6 +10,7 @@ alt: image-alt
 project-date: September 2016
 git: https://github.com/aso4/bloc-chat
 demo:
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: AngularJS-based chat app, Google Firebase backend. Create chat rooms, enter user name, and start chatting in real-time. Designed with Bootstrap.
+tools: Angular, jQuery, Bootstrap, CSS, Firebase, AngularFire, Grunt, Node
 
 ---

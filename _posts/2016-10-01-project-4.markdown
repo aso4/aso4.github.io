@@ -10,6 +10,7 @@ alt: image-alt
 project-date: October 2016
 git: https://github.com/aso4/blocipedia
 demo: https://aso4-blocipedia.herokuapp.com/
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Rails-based Wikipedia clone. Register new users, upgrade user roles from standard to premium via stripe online payment system, add “collaborator” users to private wikis, and more. Multiple gem integration.
+tools: Rails, RSpec, Shoulda, Bootstrap, Stripe, Faker, Devise, Figaro, Pundit, Redcarpet, Listen, Spring
 
 ---

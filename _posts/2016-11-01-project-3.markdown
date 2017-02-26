@@ -10,6 +10,7 @@ alt: image-alt
 project-date: November 2016
 git: https://github.com/aso4/kele-api-client
 demo:
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Ruby-based API client accessing Bloc.io student data, messaging system, and more. Parse data from JSON to Ruby hashes.
+tools: Ruby, RSpec, VCR, WebMock, Figaro, HTTParty, JSON, dotenv
 
 ---
