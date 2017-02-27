@@ -1,6 +1,6 @@
 ---
 title: Ruby Voice Flashcards
-subtitle: Voice Skill on the Amazon Alexa Platform
+subtitle: Amazon Alexa API-interfacing Voice Skill
 layout: default
 modal-id: 1
 date: 2017-01-01
