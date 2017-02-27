@@ -10,7 +10,7 @@ alt: image-alt
 project-date: December 2016
 git: https://github.com/aso4/to-do-API
 demo:
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-tools: Rails, RSpec, Shoulda, Bootstrap, Figaro, Pry, ActiveModel Serializers, Faker, Spring, FactoryGirl
+description: Because of its API-centered focus, this is not your average To-Do List app. Via command line scripting, users with pre-defined accounts can create and destroy lists and items. The big challenge in this project was creating tests using serializers due to the relationality of the database. As the user specifications regarding the database changed, I found myself having to modify database tables several times, adding relations and new properties.
+tools: Rails, RSpec, Shoulda, Figaro, Pry, ActiveModel Serializers, Faker, Spring, FactoryGirl
 
 ---

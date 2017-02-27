@@ -10,7 +10,8 @@ alt: image-alt
 project-date: April 2014
 git: https://github.com/aso4/bloc-jams-angular
 demo: https://aso4-bloc-jams.herokuapp.com/
-description: AngularJS-based music player. Responsively-designed home page and dynamically-generated Album and Library pages. Web API used to handle playback and volume control.
+description: >
+  BlocJams is a single-page music player app designed using responsive design principles and AngularJS. Using the Angular UI router and <a href="https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/">Angular 1.5 design principles</a>, users have access to a navigation bar that routes to the app's Library page. This project was my first taste using a third-party API, Buzz, which was used to handle playback and volume control on the backend.
 tools: Angular, Angular UI router, jQuery, Buzz, CSS, Grunt, Node
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: API Client
-subtitle: Curl-based Third-Party API Data Access
+subtitle: Third-party API Data Access Client
 layout: default
 modal-id: 3
 date: 2016-11-01
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: November 2016
 git: https://github.com/aso4/kele-api-client
 demo:
-description: Ruby-based API client accessing Bloc.io student data, messaging system, and more. Parse data from JSON to Ruby hashes.
+description: This API client accesses data via from Bloc.io using student login credentials and processes it from JSON to Ruby hash format. With valid credentials, a user can access student profile data, check student mentor availability times, view the student's course curriculum, access Bloc's internal messaging system, and submit checkpoint and assignment work. The project served as an introduction to microservice architecture in the way it processes data. Perhaps the project's biggest challenge was understanding how to write tests - because of the project's dependence on HTTP requests, I had to configure a gem that could record the output from valid requests to increase test speed and consistency.
 tools: Ruby, RSpec, VCR, WebMock, Figaro, HTTParty, JSON, dotenv
 
 ---
