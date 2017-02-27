@@ -4,7 +4,7 @@ subtitle: Third-party API Data Access Client
 layout: default
 modal-id: 3
 date: 2016-11-01
-img: golden.png
+img: api_client.png
 thumbnail: curl_json_thumbnail.png
 alt: image-alt
 project-date: November 2016

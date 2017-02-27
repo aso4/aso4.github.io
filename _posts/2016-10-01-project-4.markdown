@@ -4,13 +4,13 @@ subtitle: Multifaceted Wikipedia Clone
 layout: default
 modal-id: 4
 date: 2016-10-01
-img: treehouse.png
+img: blocipedia.png
 thumbnail: wikipedia_blank_thumbnail.png
 alt: image-alt
 project-date: October 2016
 git: https://github.com/aso4/blocipedia
 demo: https://aso4-blocipedia.herokuapp.com/
 description: This Rails-based Wikipedia clone helped to reinforce versioning and test-driven development concepts. The Bloc curriculum asked me to approach the project by a series of user stories including the registration of new users, creating different user tiers, enabling self-upgrading via stripe, and adding private wiki creation and enabling collaborator editing for premium users. The main challenges of this project was seeding the database using the Faker gem and understanding how to use different gems to set up my tests.
-tools: Rails, RSpec, Shoulda, Bootstrap, Stripe, Faker, Devise, Figaro, Pundit, Redcarpet, Listen, Spring
+tools: Rails, RSpec, Stripe, Faker, Devise, Figaro, Pundit, Redcarpet, Shoulda, Bootstrap
 
 ---

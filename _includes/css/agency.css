@@ -882,3 +882,7 @@ body {
     min-height: 400px;
     background: transparent;
 }
+
+.modal-body p {
+  text-align: left;
+}
