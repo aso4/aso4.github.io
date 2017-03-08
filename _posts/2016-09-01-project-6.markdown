@@ -1,5 +1,5 @@
 ---
-title: BlocChat
+title: FireChat
 subtitle: Angular-based Real-time Chat
 layout: default
 modal-id: 6
@@ -8,9 +8,9 @@ img: blocchat.png
 thumbnail: chat_thumbnail.png
 alt: image-alt
 project-date: September 2016
-git: https://github.com/aso4/bloc-chat
-demo:
-description: This AngularJS-based chat app represents the second project where I used a third-party API, Google Firebase, this time to persist chatroom data. Similar to Blocipedia, this project helped reinforce versioning principles in the process of learning how to persist chat room data. The main challenges in this project were understanding Firebase's process of authentication for persistence to occur and designing a webpage utilizing the Bootstrap framework from scratch.
+git: https://github.com/aso4/firechat
+demo: https://aso4-firechat.herokuapp.com/
+description: This AngularJS-based chat app represents the second project where I used a third-party API, Google Firebase, this time to persist chatroom data. Similar to my Wikipedia clone, this project helped reinforce versioning principles in the process of learning how to persist chat room data. The main challenges in this project were understanding Firebase's process of authentication for persistence to occur and designing a webpage utilizing the Bootstrap framework from scratch.
 tools: Angular, jQuery, Bootstrap, CSS, Firebase, AngularFire, Grunt, Node
 
 ---
