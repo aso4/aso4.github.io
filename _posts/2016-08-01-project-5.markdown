@@ -1,5 +1,5 @@
 ---
-title: BlocJams
+title: BuzzJams
 subtitle: Buzz API-integrated Music Player
 layout: default
 modal-id: 5
@@ -7,11 +7,11 @@ date: 2016-08-01
 img: blocjams.png
 thumbnail: equalizer_thumbnail.png
 alt: image-alt
-project-date: April 2014
-git: https://github.com/aso4/bloc-jams-angular
-demo: https://aso4-bloc-jams.herokuapp.com/
+project-date: August 2016
+git: https://github.com/aso4/buzzjams
+demo: https://aso4-buzzjams.herokuapp.com/
 description: >
-  BlocJams is a single-page music player app designed using responsive design principles and AngularJS. Using the Angular UI router and <a href="https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/">Angular 1.5 design principles</a>, users have access to a navigation bar that routes to the app's Library page. This project was my first taste using a third-party API, Buzz, which was used to handle playback and volume control on the backend.
+  BuzzJams is a single-page music player app designed using media query CSS assignment and Angular 1.5  <a href="https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/">Angular 1.5 design principles</a>. This project marks my first taste integrating a third-party API, Buzz, into a JavaScript-based framework. Buzz is used to include and manage sounds, which in the case of BuzzJams means real-time playback and volume control. Tested and deployed via Grunt task runner, Node, and Heroku.
 tools: Angular, Angular UI router, jQuery, Buzz, CSS, Grunt, Node
 
 ---

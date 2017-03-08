@@ -4,7 +4,7 @@ subtitle: Angular-based Real-time Chat
 layout: default
 modal-id: 6
 date: 2016-09-01
-img: blocchat.png
+img: firechat.png
 thumbnail: chat_thumbnail.png
 alt: image-alt
 project-date: September 2016
