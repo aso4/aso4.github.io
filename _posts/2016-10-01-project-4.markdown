@@ -10,7 +10,7 @@ alt: image-alt
 project-date: October 2016
 git: https://github.com/aso4/blocipedia
 demo: https://aso4-blocipedia.herokuapp.com/
-description: This Rails-based Wikipedia clone helped to reinforce versioning and test-driven development concepts. The Bloc curriculum asked me to approach the project by a series of user stories including the registration of new users, creating different user tiers, enabling self-upgrading via stripe, and adding private wiki creation and enabling collaborator editing for premium users. The main challenges of this project was seeding the database using the Faker gem and understanding how to use different gems to set up my tests.
+description: This Rails-based Wikipedia clone helped to reinforce versioning and test-driven development concepts. Multiple dependencies were integrated purposes of handling new user registrations with email confirmation and password editing, enabling user self-upgrading/downgrading via online payment registration, and enabling Markdown-based editing of entries. Users in the premium tier have private wiki creation and collaborator add/remove functionality. The primary challenge from this project was the integration of new features via test-driven development.
 tools: Rails, RSpec, Stripe, Faker, Devise, Figaro, Pundit, Redcarpet, Shoulda, Bootstrap
 
 ---

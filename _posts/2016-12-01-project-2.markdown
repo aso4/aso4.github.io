@@ -9,8 +9,8 @@ thumbnail: microservices_thumbnail.jpg
 alt: image-alt
 project-date: December 2016
 git: https://github.com/aso4/to-do-API
-demo:
-description: Because of its API-centered focus, this is not your average To-Do List app. Via command line scripting, users with pre-defined accounts can create and destroy lists and items. The big challenge in this project was creating tests using serializers due to the relationality of the database. As the user specifications regarding the database changed, I found myself having to modify database tables several times, adding relations and new properties.
+demo: https://github.com/aso4/to-do-API#readme
+description: Through command line scripting, users with pre-defined accounts can create and destroy lists and items over which they have ownership, and the results will be returned in JSON format. The main the challenges I encountered were creating serializer-based tests and modifying the database to match user story specifications. Click the Demo button for instructions on how to use a live version of the API.
 tools: Rails, RSpec, Shoulda, Figaro, Pry, ActiveModel Serializers, Faker, Spring, FactoryGirl
 
 ---
