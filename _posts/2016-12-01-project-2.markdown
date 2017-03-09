@@ -10,7 +10,7 @@ alt: image-alt
 project-date: December 2016
 git: https://github.com/aso4/to-do-API
 demo: https://github.com/aso4/to-do-API#readme
-description: Through command line scripting, users with pre-defined accounts can create and destroy lists and items over which they have ownership, and the results will be returned in JSON format. The main the challenges I encountered were creating serializer-based tests and modifying the database to match user story specifications. Click the Demo button for instructions on how to use a live version of the API.
+description: Through command line scripting, users with pre-defined accounts can create and destroy lists and items over which they have ownership, the results of which are returned in JSON format. One example of this was the addition of a visibility property that allowed non-owners to view a list. Creating serializer-based tests and modifying the database to match user story specifications proved to be the main challenges of this project. Click the Demo button for instructions on how to use the live version of the API.
 tools: Rails, RSpec, Shoulda, Figaro, Pry, ActiveModel Serializers, Faker, Spring, FactoryGirl
 
 ---

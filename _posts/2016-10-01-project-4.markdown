@@ -10,7 +10,7 @@ alt: image-alt
 project-date: October 2016
 git: https://github.com/aso4/blocipedia
 demo: https://aso4-blocipedia.herokuapp.com/
-description: This Rails-based Wikipedia clone helped to reinforce versioning and test-driven development concepts. Multiple dependencies were integrated purposes of handling new user registrations with email confirmation and password editing, enabling user self-upgrading/downgrading via online payment registration, and enabling Markdown-based editing of entries. Users in the premium tier have private wiki creation and collaborator add/remove functionality. The primary challenge from this project was the integration of new features via test-driven development.
+description: This Wikipedia clone mirrors the wiki creation, anonymous editing, and new user registration functionality of its inspiration, and also incorporates user tiers, user self-upgrading/downgrading via online payment, and Markdown-based editing of entries through third-party dependencies. Users in the upgraded tier can create private wikis and also add or remove collaborators from their private wikis.
 tools: Rails, RSpec, Stripe, Faker, Devise, Figaro, Pundit, Redcarpet, Shoulda, Bootstrap
 
 ---

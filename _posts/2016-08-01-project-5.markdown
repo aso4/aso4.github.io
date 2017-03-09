@@ -11,7 +11,7 @@ project-date: August 2016
 git: https://github.com/aso4/buzzjams
 demo: https://aso4-buzzjams.herokuapp.com/
 description: >
-  BuzzJams is a single-page music player app designed using media query CSS assignment and Angular 1.5  <a href="https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/">Angular 1.5 design principles</a>. This project marks my first taste integrating a third-party API, Buzz, into a JavaScript-based framework. Buzz is used to include and manage sounds, which in the case of BuzzJams means real-time playback and volume control. Tested and deployed via Grunt task runner, Node, and Heroku.
+  BuzzJams gets its name from its use of a third-party library called Buzz that facilitates real-time playback and volume control. It's a single-page music player app with a static backend containing one demo album and incorporates responsive CSS and <a href="https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/">Angular 1.5 design principles</a>. Deployed to Heroku with Grunt and Node.
 tools: Angular, Angular UI router, jQuery, Buzz, CSS, Grunt, Node
 
 ---

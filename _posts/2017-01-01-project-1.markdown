@@ -10,7 +10,7 @@ alt: image-alt
 project-date: January 2017
 git: https://github.com/aso4/alexa-flashcards
 demo:
-description: Ruby Voice Flashcards is a voice-based flashcard skill testing Ruby knowledge on the Amazon Alexa platform. The main challenges of this project was examining documentation. I started with Alexa developer documentation to see how skills could be implemented. Since most developer resources were written in JavaScript, I had to research and modify third-party dependencies to generate appropriate Alexa requests. Since Alexa also communicates via SSL tunneling, the third big hurdle was researching SSL tunnel hosts, bringing me deeper into the orbit of the AWS ecosystem.
+description: Ruby Voice Flashcards is a voice-based flashcard skill testing Ruby knowledge on the Amazon Alexa platform. I began this project by examining Alexa's developer documentation to see how an Alexa Skill could be implemented and found that most developer resources were written for Node. This led me on a search for third-party dependencies capable of generating valid Alexa requests. The ones that I found generated invalid responses, so I made tweaks to the code to get communication working. Alexa also communicates with an authentication requirement, leading me into SSL tunnel hosting services and further into the AWS ecosystem.
 tools: Rails, AWS Alexa, AWS Elastic Beanstalk, AWS IAM, AWS Lambda, ngrok, Google API Client, Google Signet, Alexa Web Service gem, Alexa Rubykit gem
 
 ---

@@ -10,7 +10,7 @@ alt: image-alt
 project-date: November 2016
 git: https://github.com/aso4/kele-api-client
 demo:
-description: This API client accesses data via from Bloc.io using student login credentials and processes it from JSON to Ruby hash format. With valid credentials, a user can access student profile data, check student mentor availability times, view the student's course curriculum, access Bloc's internal messaging system, and submit checkpoint and assignment work. The project served as an introduction to microservice architecture in the way it processes data. Perhaps the project's biggest challenge was understanding how to write tests - because of the project's dependence on HTTP requests, I had to configure a gem that could record the output from valid requests to increase test speed and consistency.
+description: This client accesses data available through the Bloc.io API using student login credentials and processes it from JSON to Ruby hash format. Assuming valid credentials, a user can access data that pertains to those credentials such as student profile data, course curriculum, and internal messaging, as well as make Github-linked assignment submissions. Test automation was a challenge as API responses were cached to increase test speed and consistency and to eliminate repeated calls to the API.
 tools: Ruby, RSpec, VCR, WebMock, Figaro, HTTParty, JSON, dotenv
 
 ---

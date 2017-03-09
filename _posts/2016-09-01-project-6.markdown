@@ -10,7 +10,7 @@ alt: image-alt
 project-date: September 2016
 git: https://github.com/aso4/firechat
 demo: https://aso4-firechat.herokuapp.com/
-description: This AngularJS-based chat app represents the second project where I used a third-party API, Google Firebase, this time to persist chatroom data. Similar to my Wikipedia clone, this project helped reinforce versioning principles in the process of learning how to persist chat room data. The main challenges in this project were understanding Firebase's process of authentication for persistence to occur and designing a webpage utilizing the Bootstrap framework from scratch.
+description: This chat app is so-named due to the use of Google Firebase to persist chatroom data. It also marks one of the earliest attempts at utilizing the Bootstrap framework. Users enter a handle and can select an existing room or create a new room to begin chatting in real-time with other users. Deployed to Heroku using Grunt and Node.
 tools: Angular, jQuery, Bootstrap, CSS, Firebase, AngularFire, Grunt, Node
 
 ---
