@@ -3,8 +3,8 @@ baseurl:
 
 # Site settings
 title: Albert So
-email: albertyso@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: albertyso@gmail.com
+description: "Website of full stack web developer Albert So. Projects | github | LinkedIn"
 footer_text: >
   Powered by <a href="https://jekyllrb.com">Jekyll</a> with <a href="https://github.com/y7kim/agency-jekyll-theme">Agency Theme</a>
 
